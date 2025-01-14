@@ -53,9 +53,8 @@ Chess is a strategic board game played between two players. The objective of the
 - **King**: Moves one square in any direction. Special move: castling.
 
 ### Special Rules
-- **Castling**: A move involving the king and a rook under specific conditions.
-- **En Passant**: A special pawn capture under certain conditions.
 - **Promotion**: When a pawn reaches the opponent's back rank, it is promoted to a queen, rook, bishop, or knight.
+- **Chaos Chess **: that you have to discover.
 
 ---
 
